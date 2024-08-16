@@ -17,7 +17,7 @@
 
 
 #include<stdio.h>
-int main(){
+int main(){     
     int n,r,c;
     printf("Enter the number");
     scanf("%d",&n);
