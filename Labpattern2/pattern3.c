@@ -17,7 +17,7 @@ int  main(){
                 c2=a+b;
                 a=b;
                 b=c2;
-                printf("%3d",b);
+                printf("%3d",a);
             }
             printf("\n");
         }
