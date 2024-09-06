@@ -13,8 +13,6 @@ void  prime(int n){
         printf("The number %d is not a prime no",n);
     }
     
-   
-
 }
 int main(){
     int n;
